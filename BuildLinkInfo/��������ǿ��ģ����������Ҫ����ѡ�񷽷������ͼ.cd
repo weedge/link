@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="link::api::KeyfileLinkIndex" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="link::api::KeyfileLinkIndex::linkrecord" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>include\KeyfileLinkIndex.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="link::api::KeyfileLinkIndex::SegmentOffset" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>include\KeyfileLinkIndex.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="link::api::KeyfileLinkIndex::LinkData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>include\KeyfileLinkIndex.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CCRCVZBGABKABEmwEOA0RhkWCSQFATNghQIAhoAiOkE=</HashCode>
+      <FileName>include\KeyfileLinkIndex.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::parse::BasicLinkDoc" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAEBAgAACMAAAAAAAAAIGAAAAAAAAAAAEAEgI=</HashCode>
+      <FileName>include\BasicLinkDocStream.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::parse::BasicLinkDocStream" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACABAgAAAQQEAJAAAAEAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>include\BasicLinkDocStream.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::api::IndexedMIandCDFVector" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="link::api::IndexedMIandCDFVector::IndexedRealMIAscending" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>include\IndexedMIandCDF.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="link::api::IndexedMIandCDFVector::IndexedRealMIDescending" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>include\IndexedMIandCDF.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="link::api::IndexedMIandCDFVector::IndexedRealCDFAscending" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>include\IndexedMIandCDF.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="link::api::IndexedMIandCDFVector::IndexedRealCDFDescending" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>include\IndexedMIandCDF.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAIAAAAgIAAEQBCAAAAAAAAAAAAAAJAAAAQA=</HashCode>
+      <FileName>include\IndexedMIandCDF.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::api::InvLinkDocInfo" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAE=</HashCode>
+      <FileName>include\InvLinkDocInfo.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reader_less" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\KeyfileLinkIndex.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::api::InvLinkDocList" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAARAAAACAAAABGSAACCAEAAAAAAAAAEQAAAAEIA=</HashCode>
+      <FileName>include\InvLinkDocList.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::api::Link" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IiAIBAAEQAAAQAAAAAAABgAAAEAoBAAAAAAARAAAAAA=</HashCode>
+      <FileName>include\Link.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::api::LinkInfo" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAQAAAQEAEACAEAEAAAAAAAAAABCCAAgA=</HashCode>
+      <FileName>include\LinkInfo.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::retrieval::LinkQuery" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQABAAAAAAAAAAEABAAAAAAAAEAAAAAAAAEAA=</HashCode>
+      <FileName>include\LinkDistributionRetMethod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::retrieval::LinkQueryRep" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LinkDistributionRetMethod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::retrieval::LinkDistributionRetMethod" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAQCAAQgAAAAAAAACABAAAAEAAAAAAAAA=</HashCode>
+      <FileName>include\LinkDistributionRetMethod.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::file::InvLinkInfoFile" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIACAAAEAEAAAAgAAAAAAAAAEAAFAgAEAIAAIAAA=</HashCode>
+      <FileName>include\LinkResultFile.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::file::CandidateLinkFile" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIICAQBAEICAJAAAEBAEBAAqAAQEAAAAgEAAAGEA=</HashCode>
+      <FileName>include\CandidateLinkFile.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::api::InvLinkInfoList" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAIAQAAAAEEAAABASAAAAAAAAACAAAAAIgAAABEAA=</HashCode>
+      <FileName>include\InvLinkInfoList.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::utility::LinkCache" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAABAAAAAAAAACAACAAAAAACABA=</HashCode>
+      <FileName>include\LinkCache.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="link::file::LinkDocListSegmentReader" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACAAAAAACAAYgAAAAEAARAAgAEAAYAEBA=</HashCode>
+      <FileName>include\LinkDocListSegmentReader.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="link::api::IndexedMIandCDF" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\IndexedMIandCDF.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="link::api::LinkedTerm" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LinkTypes.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="link::api::LDTerm" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LinkTypes.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="link::api::LINK_STR" Collapsed="true">
+    <Position X="4.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LinkTypes.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="link::api::LINKID_T" Collapsed="true">
+    <Position X="8.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LinkTypes.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="link::api::LINKCOUNT_T" Collapsed="true">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LinkTypes.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="link::api::DIST_T" Collapsed="true">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>include\LinkTypes.hpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>

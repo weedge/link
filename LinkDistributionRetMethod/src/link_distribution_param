@@ -1,0 +1,43 @@
+<parameters>
+<!--  是否打印调试信息，0-不打印， 1-打印简单信息， 2-打印详细信息  -->
+<debug>1</debug>
+<useWorkingSet>1</useWorkingSet>
+<workingSetFile>res_simple_kl_jm</workingSetFile>
+<!--  0-正常实验，1-确定smooth参数试验（只用link模型）,2-确定unigram和link模型参数实验  -->
+<!--  1,2用到了floorValue, proofValue两个参数,floorValue+(proofValue-floorValue)*(i+1)/10 进行9次循环  -->
+<parameterTuning>1</parameterTuning>
+<floorValue>0.0</floorValue>
+<proofValue>0.1</proofValue>
+<!--  Basic retrieval parameters  -->
+<!--  database index  -->
+<index>kindex.key</index>
+<!--  query text stream  -->
+<textQuery>query</textQuery>
+<!--  result file  -->
+<resultFile>res.link_distribution</resultFile>
+<!--  how many docs to return as the result  -->
+<resultCount>1000</resultCount>
+<!--  0   simple-format  1   TREC-format  -->
+<resultFormat>1</resultFormat>
+<!--  weighting parameters  -->
+<!--  1 依存模型 0 标准模型 0-1之间混合模型  -->
+<phi>1</phi>
+<eta>0.75</eta>
+<useLinkDist>1</useLinkDist>
+<!--  window parameters  -->
+<!--  query窗口大小  -->
+<queryWindowSize>15</queryWindowSize>
+<!--  文档窗口最大值  -->
+<docWindowMax>100</docWindowMax>
+<!--  窗口数目  -->
+<docWindowCount>1</docWindowCount>
+<!--  窗口的大小，以空格分开  -->
+<docWindowSize>40</docWindowSize>
+<!--  窗口的权值，以空格分开  -->
+<docWindowWeights>1.0</docWindowWeights>
+<!--  Pseudo feedback parameters  -->
+<!--  i.e., no pseudo feedback  -->
+<feedbackDocCount>0</feedbackDocCount>
+<!--  only relevant when feedbackDocCount >0  -->
+<feedbackTermCount>20</feedbackTermCount>
+</parameters>

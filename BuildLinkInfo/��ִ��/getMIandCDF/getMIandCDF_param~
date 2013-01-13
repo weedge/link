@@ -1,0 +1,16 @@
+<parameters>
+<!--database index to open-->
+<index>C:\buildindex\invFPindex\APindex.key</index>
+<!--link database index to open-->
+<linkIndex>C:\buildindex\invLinkindex\QueryLindex\APCLindex.link_key</linkIndex>
+<!-- default:40  u can choose the value:10 20 30 40 50 60 70 80 90 100 for getCDF -->
+<docWindSize>40</docWindSize>
+<!-- MI:0  CDF:1 MIandCDF: other -->
+<MIorCDF>0</MIorCDF>
+<!-- Query file to read -->
+<textQuerySet>queryAP51-200</textQuerySet>
+<!-- linkMI result file to write -->
+<linkFile>queryAP51-200</linkFile>
+<!-- write or read the candLink format, true:termID-termID term-term | false:termID-termID -->
+<showLink>true</showLink>
+</parameters>

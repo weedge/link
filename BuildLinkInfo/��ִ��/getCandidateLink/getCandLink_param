@@ -1,0 +1,11 @@
+<parameters>
+<debug>1</debug>
+<!--database index to open-->
+<index>C:\buildindex\invFPindex\APindex.key</index>
+<MIthreshold>1.1</MIthreshold>
+<!-- if true:  trec web doc Format to read candidate qurey links to LinkDistributionRetrieval. false: create it in order to read candidate collection links or all query links to build candidate linkIndex-->
+<DocStreamFormat>false</DocStreamFormat>
+<!-- show link true:termID-termID, term-term | false: termID-termID to read -->
+<showLink>true</showLink>
+<candidateLinkFile>AP</candidateLinkFile>
+</parameters>

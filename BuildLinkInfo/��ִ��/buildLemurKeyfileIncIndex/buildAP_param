@@ -1,0 +1,12 @@
+<parameters>
+<index>C:\buildindex\invFPindex\APindex</index>
+<indexType>key</indexType>
+<manager></manager>
+<managerType></managerType>
+<stemmer>porter</stemmer>
+<countStopWords>true</countStopWords>
+<memory>512000000</memory>
+<stopwords>C:\buildindex\stop.en</stopwords>
+<docFormat>trec</docFormat>
+<dataFiles>C:\buildindex\build-APindex.data</dataFiles>
+</parameters>

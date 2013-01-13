@@ -1,0 +1,28 @@
+<parameters>
+<!-- 原始倒排索引 -->
+<index>C:\buildindex\invFPindex\APindex.key</index>
+<!-- 所要建立的连接索引 -->
+<linkIndex>C:\buildindex\invLinkindex\QueryLindex\APCLindex</linkIndex>
+<!-- 建立索引所要的内存空间 -->
+<memory>512000000</memory>
+<!-- 查询集 -->
+<textQuerySet>queryAP51-200</textQuerySet>
+<!-- 显示连接信息 -->
+<showLink>true</showLink>
+
+<stream>cerr</stream>
+<!--  candlinkFromat true: termID-termID term-term | false: termID-termID  -->
+<candlinkFromat>true</candlinkFromat>
+
+<!-- true:使用候选link生成linkIndex倒排索引文件.false:不使用候选link,直接生成linkIndex倒排索引文件-->
+<usedCandLink>true</usedCandLink>
+<candidateLinkFile>AP-Query.link</candidateLinkFile>
+
+<!--  window parameters  -->
+<!--  窗口数目，最大为4 -->
+<windowCount>4</windowCount>
+
+<!--  窗口的大小，以空格分开  -->
+<windowSizes>30 40 50 60</windowSizes>
+</parameters>
+

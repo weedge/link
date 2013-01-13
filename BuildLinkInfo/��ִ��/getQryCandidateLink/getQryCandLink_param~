@@ -1,0 +1,11 @@
+<parameters>
+<index>C:\buildindex\invFPindex\APindex.key</index>
+<linkIndex>C:\buildindex\invLinkindex\QueryLindex\APCLindex.link_key</linkIndex>
+<textQuerySet>queryAP51-200</textQuerySet>
+<MIthreshold>0.0</MIthreshold>
+<!-- if true:  trec web doc Format to read candidate qurey links to LinkDistributionRetrieval. false: in order to read candidate collection links or all query links to build candidate linkIndex-->
+<DocStreamFormat>true</DocStreamFormat>
+<!-- show link true:termID-termID, term-term | false: termID-termID to read -->
+<showLink>false</showLink>
+<candidateLinkFile>queryAP51-200</candidateLinkFile>
+</parameters>

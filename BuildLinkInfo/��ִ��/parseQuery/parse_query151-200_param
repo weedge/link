@@ -1,0 +1,7 @@
+<parameters>
+<outputFile>query151_200</outputFile>
+<acronyms></acronyms>
+<docFormat>web</docFormat>
+<stemmer>porter</stemmer>
+<stopwords>stop.en</stopwords>
+</parameters>

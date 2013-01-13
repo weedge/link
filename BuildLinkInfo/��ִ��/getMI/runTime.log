@@ -1,0 +1,403 @@
+1753(subsidi df:1723)-13110(airbu df:508) linkDF:22 PMI:1.41999 @#
+10(south df:21173)-860(african df:4228) linkDF:2774 PMI:1.62933 @-3397(sanction df:2638) linkDF:679 PMI:0.693618 @#
+860(african df:4228)-3397(sanction df:2638) linkDF:366 PMI:1.68663 @#
+6007(buyout df:2407)-6191(leverag df:1191) linkDF:810 PMI:3.8396 @#
+1473(launch df:7755)-1808(contract df:9882) linkDF:473 PMI:0.0157875 @-2924(satellit df:2100) linkDF:843 PMI:2.14244 @#
+1808(contract df:9882)-2924(satellit df:2100) linkDF:162 PMI:0.250689 @#
+611(trade df:23313)-2764(insid df:7945) linkDF:1249 PMI:0.104289 @#
+316(move df:28794)-1648(prime df:10692) linkDF:2426 PMI:0.260081 @-2622(predict df:8389) linkDF:2228 PMI:0.417516 @-3108(rate df:18404) linkDF:4408 PMI:0.314186 @-4953(lend df:1950) linkDF:595 PMI:0.55631 @#
+1648(prime df:10692)-2622(predict df:8389) linkDF:686 PMI:0.230205 @-3108(rate df:18404) linkDF:1637 PMI:0.314302 @-4953(lend df:1950) linkDF:393 PMI:1.13223 @#
+2622(predict df:8389)-3108(rate df:18404) linkDF:1936 PMI:0.724635 @-4953(lend df:1950) linkDF:223 PMI:0.808166 @#
+3108(rate df:18404)-4953(lend df:1950) linkDF:856 PMI:1.36762 @#
+1141(strike df:9469)-4797(rail df:1550) linkDF:286 PMI:1.16546 @#
+447(relat df:17199)-2286(weather df:6017) linkDF:542 PMI:-0.148429 @-4377(fatal df:3573) linkDF:470 PMI:0.230221 @#
+2286(weather df:6017)-4377(fatal df:3573) linkDF:153 PMI:0.158188 @#
+666(pai df:19036)-874(senior df:9965) linkDF:1585 PMI:0.318674 @-5158(merit df:1152) linkDF:247 PMI:0.617302 @#
+874(senior df:9965)-5158(merit df:1152) linkDF:98 PMI:0.340134 @#
+525(role df:10984)-618(iran df:6347) linkDF:959 PMI:0.817214 @-619(contra df:3597) linkDF:681 PMI:1.04277 @-1391(isra df:5228) linkDF:633 PMI:0.595747 @-2743(affair df:9983) linkDF:1468 PMI:0.790078 @#
+618(iran df:6347)-619(contra df:3597) linkDF:1711 PMI:2.5125 @-1391(isra df:5228) linkDF:637 PMI:1.1505 @-2743(affair df:9983) linkDF:1604 PMI:1.42713 @#
+619(contra df:3597)-1391(isra df:5228) linkDF:170 PMI:0.397414 @-2743(affair df:9983) linkDF:1291 PMI:1.77793 @#
+1391(isra df:5228)-2743(affair df:9983) linkDF:532 PMI:0.517476 @#
+846(coup df:2816)-925(militari df:21767) linkDF:1958 PMI:1.65971 @-28555(etat df:40) linkDF:37 PMI:3.99022 @#
+925(militari df:21767)-28555(etat df:40) linkDF:22 PMI:1.42527 @#
+1011(translat df:1716)-4369(machin df:5420) linkDF:67 PMI:0.170346 @#
+320(take df:18877)-2046(hostag df:3449) linkDF:800 PMI:0.704328 @#
+122(inform df:17851)-960(system df:20218) linkDF:3215 PMI:0.382695 @-14179(retriev df:624) linkDF:129 PMI:0.645103 @#
+960(system df:20218)-14179(retriev df:624) linkDF:117 PMI:0.42295 @#
+531(languag df:4700)-650(natur df:8824) linkDF:343 PMI:0.308437 @-1083(process df:12203) linkDF:467 PMI:0.29283 @#
+650(natur df:8824)-1083(process df:12203) linkDF:1178 PMI:0.588161 @#
+115(polit df:26163)-1503(civil df:11446) linkDF:3268 PMI:0.585692 @-2723(disturb df:2278) linkDF:503 PMI:0.328691 @-4613(motiv df:3097) linkDF:1046 PMI:0.753693 @#
+1503(civil df:11446)-2723(disturb df:2278) linkDF:221 PMI:0.332969 @-4613(motiv df:3097) linkDF:361 PMI:0.516549 @#
+2723(disturb df:2278)-4613(motiv df:3097) linkDF:83 PMI:0.660854 @#
+2167(fine df:7686)-3572(health df:12403) linkDF:763 PMI:0.275664 @-9828(diamet df:456) linkDF:23 PMI:0.077101 @-10306(hazard df:2002) linkDF:187 PMI:0.693306 @-15224(fiber df:501) linkDF:41 PMI:0.561066 @#
+3572(health df:12403)-9828(diamet df:456) linkDF:26 PMI:-0.278835 @-10306(hazard df:2002) linkDF:724 PMI:1.56845 @-15224(fiber df:501) linkDF:119 PMI:1.14808 @#
+9828(diamet df:456)-10306(hazard df:2002) linkDF:20 PMI:1.28259 @-15224(fiber df:501) linkDF:1 PMI:-0.327844 @#
+10306(hazard df:2002)-15224(fiber df:501) linkDF:21 PMI:1.23727 @#
+389(reviv df:2578)-797(ii df:8031) linkDF:224 PMI:0.577068 @-847(attempt df:14991) linkDF:302 PMI:0.251708 @-921(treati df:4363) linkDF:73 PMI:0.0660304 @-7644(salt df:1918) linkDF:25 PMI:-0.183676 @#
+797(ii df:8031)-847(attempt df:14991) linkDF:807 PMI:0.0983094 @-921(treati df:4363) linkDF:609 PMI:1.05109 @-7644(salt df:1918) linkDF:109 PMI:0.152501 @#
+847(attempt df:14991)-921(treati df:4363) linkDF:593 PMI:0.400329 @-7644(salt df:1918) linkDF:123 PMI:-0.350804 @#
+921(treati df:4363)-7644(salt df:1918) linkDF:70 PMI:0.319797 @#
+9461(surrog df:303)-21573(motherhood df:95) linkDF:19 PMI:4.68808 @#
+1896(border df:8494)-3533(incurs df:292) linkDF:167 PMI:2.40538 @#
+4266(shift df:4051)-10989(demograph df:331) linkDF:45 PMI:1.70908 @#
+116(nation df:66297)-4266(shift df:4051) linkDF:2279 PMI:0.334128 @-10989(demograph df:331) linkDF:221 PMI:0.5054 @-11996(boundari df:713) linkDF:481 PMI:0.515741 @#
+4266(shift df:4051)-10989(demograph df:331) linkDF:45 PMI:1.70908 @-11996(boundari df:713) linkDF:49 PMI:1.02688 @#
+10989(demograph df:331)-11996(boundari df:713) linkDF:7 PMI:1.58557 @#
+547(polici df:18638)-3530(conflict df:5457) linkDF:1269 PMI:0.719628 @#
+1160(constitut df:7404)-1495(origin df:8663) linkDF:499 PMI:0.247269 @-3252(intent df:4842) linkDF:361 PMI:0.505274 @#
+1495(origin df:8663)-3252(intent df:4842) linkDF:325 PMI:0.243181 @#
+115(polit df:26163)-145(parti df:24704) linkDF:11055 PMI:1.03507 @-742(posit df:16549) linkDF:4550 PMI:0.547955 @-56476(frg df:4) linkDF:1 PMI:0.45286 @#
+145(parti df:24704)-742(posit df:16549) linkDF:3849 PMI:0.438023 @-56476(frg df:4) linkDF:1 PMI:0.510241 @#
+419(1988 df:17209)-523(presidenti df:13389) linkDF:1995 PMI:0.354278 @-1079(candid df:10926) linkDF:1539 PMI:0.298055 @-6211(platform df:2053) linkDF:246 PMI:0.136342 @#
+523(presidenti df:13389)-1079(candid df:10926) linkDF:5953 PMI:1.90182 @-6211(platform df:2053) linkDF:618 PMI:1.3085 @#
+1079(candid df:10926)-6211(platform df:2053) linkDF:618 PMI:1.51179 @#
+600(financi df:13542)-620(scandal df:3153) linkDF:673 PMI:0.95334 @-2971(wake df:2322) linkDF:289 PMI:0.413947 @-15009(ptl df:469) linkDF:132 PMI:1.2299 @-17261(crunch df:393) linkDF:94 PMI:1.06719 @-22778(televangelist df:42) linkDF:8 PMI:0.839476 @#
+620(scandal df:3153)-2971(wake df:2322) linkDF:140 PMI:1.1466 @-15009(ptl df:469) linkDF:212 PMI:3.16113 @-17261(crunch df:393) linkDF:7 PMI:-0.0727538 @-22778(televangelist df:42) linkDF:15 PMI:2.92553 @#
+2971(wake df:2322)-15009(ptl df:469) linkDF:14 PMI:0.749526 @-17261(crunch df:393) linkDF:5 PMI:-0.103301 @#
+15009(ptl df:469)-22778(televangelist df:42) linkDF:18 PMI:5.01335 @#
+794(engin df:8361)-8825(genet df:731) linkDF:192 PMI:1.643 @#
+557(measur df:13548)-2713(protect df:14920) linkDF:2123 PMI:0.547389 @-5028(atmospher df:2749) linkDF:433 PMI:0.649006 @#
+2713(protect df:14920)-5028(atmospher df:2749) linkDF:515 PMI:0.725972 @#
+686(altern df:4353)-876(instal df:4433) linkDF:167 PMI:0.353797 @-1150(renew df:3906) linkDF:164 PMI:0.462232 @-1545(energi df:6668) linkDF:349 PMI:0.682631 @-2809(equip df:8038) linkDF:282 PMI:0.282606 @-2885(plant df:10868) linkDF:400 PMI:0.330521 @#
+876(instal df:4433)-1150(renew df:3906) linkDF:148 PMI:0.341367 @-1545(energi df:6668) linkDF:220 PMI:0.202976 @-2809(equip df:8038) linkDF:650 PMI:1.09946 @-2885(plant df:10868) linkDF:451 PMI:0.432313 @#
+1150(renew df:3906)-1545(energi df:6668) linkDF:289 PMI:0.602338 @-2809(equip df:8038) linkDF:187 PMI:-0.0198407 @-2885(plant df:10868) linkDF:319 PMI:0.212599 @#
+1545(energi df:6668)-2809(equip df:8038) linkDF:476 PMI:0.379662 @-2885(plant df:10868) linkDF:1479 PMI:1.21172 @#
+2809(equip df:8038)-2885(plant df:10868) linkDF:1209 PMI:0.823291 @#
+3(offici df:60966)-964(corrupt df:3164) linkDF:1944 PMI:0.506094 @#
+832(bank df:16779)-1138(failur df:5486) linkDF:796 PMI:0.353016 @#
+8(offic df:41941)-106(crimin df:8007) linkDF:3567 PMI:0.558645 @-368(action df:18633) linkDF:6223 PMI:0.270554 @-460(fail df:14589) linkDF:4635 PMI:0.220605 @-600(financi df:13542) linkDF:4106 PMI:0.17389 @-2615(institut df:12519) linkDF:3437 PMI:0.0745877 @#
+106(crimin df:8007)-368(action df:18633) linkDF:1674 PMI:0.613466 @-460(fail df:14589) linkDF:1122 PMI:0.458029 @-600(financi df:13542) linkDF:876 PMI:0.284999 @-2615(institut df:12519) linkDF:627 PMI:0.0291277 @#
+368(action df:18633)-460(fail df:14589) linkDF:2639 PMI:0.468698 @-600(financi df:13542) linkDF:2113 PMI:0.320879 @-2615(institut df:12519) linkDF:1826 PMI:0.253446 @#
+460(fail df:14589)-600(financi df:13542) linkDF:1758 PMI:0.381613 @-2615(institut df:12519) linkDF:1581 PMI:0.354042 @#
+600(financi df:13542)-2615(institut df:12519) linkDF:2177 PMI:0.748404 @#
+384(crude df:2499)-416(price df:21873) linkDF:1688 PMI:1.6259 @-449(oil df:9505) linkDF:2205 PMI:2.72652 @-5503(trend df:3507) linkDF:205 PMI:1.3481 @#
+416(price df:21873)-449(oil df:9505) linkDF:4111 PMI:1.1801 @-5503(trend df:3507) linkDF:1421 PMI:1.11485 @#
+449(oil df:9505)-5503(trend df:3507) linkDF:497 PMI:0.897756 @#
+490(state df:72732)-1263(member df:38477) linkDF:19616 PMI:0.143004 @-4699(invest df:10028) linkDF:4374 PMI:-0.0129846 @-6477(opec df:855) linkDF:291 PMI:-0.26106 @-11823(downstream df:177) linkDF:102 PMI:0.265542 @#
+1263(member df:38477)-4699(invest df:10028) linkDF:2138 PMI:-0.092071 @-6477(opec df:855) linkDF:506 PMI:0.928875 @-11823(downstream df:177) linkDF:22 PMI:-0.631668 @#
+4699(invest df:10028)-6477(opec df:855) linkDF:121 PMI:0.842808 @-11823(downstream df:177) linkDF:7 PMI:-0.432121 @#
+6477(opec df:855)-11823(downstream df:177) linkDF:4 PMI:1.4703 @#
+449(oil df:9505)-632(produc df:17060) linkDF:2146 PMI:0.778551 @-650(natur df:8824) linkDF:1119 PMI:0.786642 @-2402(reserv df:8656) linkDF:1030 PMI:0.722988 @-2929(data df:4772) linkDF:344 PMI:0.221803 @-3750(proven df:1041) linkDF:92 PMI:0.425534 @-5123(ga df:7849) linkDF:1824 PMI:1.39233 @#
+632(produc df:17060)-650(natur df:8824) linkDF:1707 PMI:0.624026 @-2402(reserv df:8656) linkDF:1290 PMI:0.363153 @-2929(data df:4772) linkDF:788 PMI:0.465741 @-3750(proven df:1041) linkDF:188 PMI:0.555268 @-5123(ga df:7849) linkDF:1454 PMI:0.580696 @#
+650(natur df:8824)-2402(reserv df:8656) linkDF:637 PMI:0.316786 @-2929(data df:4772) linkDF:366 PMI:0.358137 @-3750(proven df:1041) linkDF:122 PMI:0.782109 @-5123(ga df:7849) linkDF:1231 PMI:1.07347 @#
+2402(reserv df:8656)-2929(data df:4772) linkDF:781 PMI:1.1353 @-3750(proven df:1041) linkDF:86 PMI:0.451658 @-5123(ga df:7849) linkDF:565 PMI:0.313932 @#
+2929(data df:4772)-3750(proven df:1041) linkDF:53 PMI:0.563089 @-5123(ga df:7849) linkDF:265 PMI:0.152323 @#
+3750(proven df:1041)-5123(ga df:7849) linkDF:84 PMI:0.525994 @#
+74(armi df:13796)-584(weapon df:9903) linkDF:2015 PMI:0.886903 @-960(system df:20218) linkDF:1351 PMI:-0.226607 @-1624(advanc df:11123) linkDF:683 PMI:-0.311154 @-6726(acquisit df:2614) linkDF:46 PMI:-1.56087 @#
+584(weapon df:9903)-960(system df:20218) linkDF:1944 PMI:0.468837 @-1624(advanc df:11123) linkDF:801 PMI:0.179753 @-6726(acquisit df:2614) linkDF:132 PMI:-0.175173 @#
+960(system df:20218)-1624(advanc df:11123) linkDF:1823 PMI:0.288395 @-6726(acquisit df:2614) linkDF:465 PMI:0.370327 @#
+1624(advanc df:11123)-6726(acquisit df:2614) linkDF:224 PMI:0.237494 @#
+149(intern df:25910)-925(militari df:21767) linkDF:4875 PMI:0.352596 @-1759(sale df:16321) linkDF:3116 PMI:0.192969 @-2809(equip df:8038) linkDF:1795 PMI:0.349696 @#
+925(militari df:21767)-1759(sale df:16321) linkDF:1318 PMI:-0.493232 @-2809(equip df:8038) linkDF:1802 PMI:0.527822 @#
+1759(sale df:16321)-2809(equip df:8038) linkDF:1387 PMI:0.55401 @#
+65(associ df:16834)-99(back df:37150) linkDF:4275 PMI:0.11792 @-116(nation df:66297) linkDF:9571 PMI:0.344692 @-1375(rifl df:2456) linkDF:393 PMI:0.44762 @#
+99(back df:37150)-116(nation df:66297) linkDF:17022 PMI:0.128898 @-1375(rifl df:2456) linkDF:790 PMI:0.35428 @#
+116(nation df:66297)-1375(rifl df:2456) linkDF:1142 PMI:0.143603 @#
+90(crime df:7364)-194(aid df:18477) linkDF:1151 PMI:0.331001 @-2931(comput df:5929) linkDF:209 PMI:-0.23838 @#
+194(aid df:18477)-2931(comput df:5929) linkDF:581 PMI:-0.135887 @#
+90(crime df:7364)-194(aid df:18477) linkDF:1151 PMI:0.331001 @-1702(detect df:3920) linkDF:410 PMI:0.849207 @-2931(comput df:5929) linkDF:209 PMI:-0.23838 @#
+194(aid df:18477)-1702(detect df:3920) linkDF:392 PMI:-0.115612 @-2931(comput df:5929) linkDF:581 PMI:-0.135887 @#
+1702(detect df:3920)-2931(comput df:5929) linkDF:287 PMI:0.70928 @#
+194(aid df:18477)-2183(medic df:9951) linkDF:1903 PMI:0.532732 @-2931(comput df:5929) linkDF:581 PMI:-0.135887 @-10670(diagnosi df:290) linkDF:84 PMI:0.947909 @#
+2183(medic df:9951)-2931(comput df:5929) linkDF:362 PMI:0.00986038 @-10670(diagnosi df:290) linkDF:160 PMI:2.21112 @#
+2931(comput df:5929)-10670(diagnosi df:290) linkDF:18 PMI:0.544135 @#
+2550(optic df:309)-2824(applic df:3363) linkDF:28 PMI:1.48953 @-15224(fiber df:501) linkDF:128 PMI:4.91334 @#
+2824(applic df:3363)-15224(fiber df:501) linkDF:27 PMI:0.969897 @#
+2550(optic df:309)-2561(manufactur df:7753) linkDF:47 PMI:1.17223 @-2809(equip df:8038) linkDF:77 PMI:1.62978 @-15224(fiber df:501) linkDF:128 PMI:4.91334 @#
+2561(manufactur df:7753)-2809(equip df:8038) linkDF:1231 PMI:1.17907 @-15224(fiber df:501) linkDF:108 PMI:1.52095 @#
+2809(equip df:8038)-15224(fiber df:501) linkDF:52 PMI:0.753957 @#
+618(iran df:6347)-619(contra df:3597) linkDF:1711 PMI:2.5125 @-2743(affair df:9983) linkDF:1604 PMI:1.42713 @#
+619(contra df:3597)-2743(affair df:9983) linkDF:1291 PMI:1.77793 @#
+532(high df:29487)-953(control df:24687) linkDF:4914 PMI:0.105362 @-2456(transfer df:4368) linkDF:774 PMI:-0.0109381 @-2945(technolog df:5744) linkDF:2025 PMI:0.676964 @#
+953(control df:24687)-2456(transfer df:4368) linkDF:984 PMI:0.406789 @-2945(technolog df:5744) linkDF:1383 PMI:0.473322 @#
+2456(transfer df:4368)-2945(technolog df:5744) linkDF:393 PMI:0.947093 @#
+103(war df:22517)-471(star df:8678) linkDF:2390 PMI:0.699732 @-560(design df:12388) linkDF:2155 PMI:0.240292 @-782(defens df:18878) linkDF:4669 PMI:0.592177 @-957(anti df:13790) linkDF:3859 PMI:0.715694 @-960(system df:20218) linkDF:2884 PMI:0.0418344 @-1643(missil df:4770) linkDF:2189 PMI:1.21033 @#
+471(star df:8678)-560(design df:12388) linkDF:961 PMI:0.3862 @-782(defens df:18878) linkDF:1417 PMI:0.353254 @-957(anti df:13790) linkDF:852 PMI:0.158597 @-960(system df:20218) linkDF:1171 PMI:0.0939938 @-1643(missil df:4770) linkDF:769 PMI:1.1177 @#
+560(design df:12388)-782(defens df:18878) linkDF:1954 PMI:0.318653 @-957(anti df:13790) linkDF:1249 PMI:0.185171 @-960(system df:20218) linkDF:2755 PMI:0.593616 @-1643(missil df:4770) linkDF:781 PMI:0.777245 @#
+782(defens df:18878)-957(anti df:13790) linkDF:2781 PMI:0.56437 @-960(system df:20218) linkDF:3546 PMI:0.42475 @-1643(missil df:4770) linkDF:2304 PMI:1.4378 @#
+957(anti df:13790)-960(system df:20218) linkDF:2252 PMI:0.284802 @-1643(missil df:4770) linkDF:1193 PMI:1.09368 @#
+960(system df:20218)-1643(missil df:4770) linkDF:1374 PMI:0.852307 @#
+782(defens df:18878)-1262(research df:11701) linkDF:1657 PMI:0.210837 @-1821(initi df:10841) linkDF:2301 PMI:0.615511 @-2824(applic df:3363) linkDF:419 PMI:0.082785 @-2933(strateg df:3113) linkDF:1471 PMI:1.41586 @-11462(laser df:463) linkDF:150 PMI:1.03841 @#
+1262(research df:11701)-1821(initi df:10841) linkDF:1139 PMI:0.390641 @-2824(applic df:3363) linkDF:517 PMI:0.77128 @-2933(strateg df:3113) linkDF:463 PMI:0.738211 @-11462(laser df:463) linkDF:151 PMI:1.52338 @#
+1821(initi df:10841)-2824(applic df:3363) linkDF:336 PMI:0.416687 @-2933(strateg df:3113) linkDF:857 PMI:1.43026 @-11462(laser df:463) linkDF:101 PMI:1.19756 @#
+2824(applic df:3363)-2933(strateg df:3113) linkDF:81 PMI:0.241774 @-11462(laser df:463) linkDF:40 PMI:1.44182 @#
+2933(strateg df:3113)-11462(laser df:463) linkDF:89 PMI:2.31882 @#
+2195(welfar df:1802)-4177(reform df:9212) linkDF:281 PMI:1.0247 @#
+2131(insur df:5605)-3572(health df:12403) linkDF:1338 PMI:1.15308 @-7640(catastroph df:1006) linkDF:261 PMI:2.03062 @#
+3572(health df:12403)-7640(catastroph df:1006) linkDF:350 PMI:1.52976 @#
+220(mondai df:35726)-903(black df:13427) linkDF:3017 PMI:0.0346167 @#
+611(trade df:23313)-953(control df:24687) linkDF:3454 PMI:-0.0122549 @-2764(insid df:7945) linkDF:1249 PMI:0.104289 @#
+953(control df:24687)-2764(insid df:7945) linkDF:1521 PMI:0.244048 @#
+611(trade df:23313)-655(regul df:7471) linkDF:1446 PMI:0.312261 @-2764(insid df:7945) linkDF:1249 PMI:0.104289 @-3696(japanes df:6765) linkDF:3191 PMI:1.20306 @#
+655(regul df:7471)-2764(insid df:7945) linkDF:412 PMI:0.133196 @-3696(japanes df:6765) linkDF:267 PMI:-0.139798 @#
+2764(insid df:7945)-3696(japanes df:6765) linkDF:258 PMI:-0.235601 @#
+557(measur df:13548)-3688(protectionist df:276) linkDF:90 PMI:1.37667 @-3696(japanes df:6765) linkDF:676 PMI:0.193937 @#
+3688(protectionist df:276)-3696(japanes df:6765) linkDF:86 PMI:2.02568 @#
+504(find df:18273)-1260(compani df:31086) linkDF:3682 PMI:0.064774 @-5331(innov df:995) linkDF:194 PMI:0.563191 @#
+1260(compani df:31086)-5331(innov df:995) linkDF:357 PMI:0.641736 @#
+10(south df:21173)-12(govern df:54769) linkDF:8749 PMI:0.216588 @-860(african df:4228) linkDF:2774 PMI:1.62933 @-2745(resist df:5207) linkDF:845 PMI:0.232351 @#
+12(govern df:54769)-860(african df:4228) linkDF:2680 PMI:0.644463 @-2745(resist df:5207) linkDF:2863 PMI:0.502242 @#
+860(african df:4228)-2745(resist df:5207) linkDF:278 PMI:0.731633 @#
+579(nuclear df:6653)-11434(prolifer df:478) linkDF:167 PMI:2.15682 @#
+1590(fund df:14291)-11469(biotechnolog df:133) linkDF:36 PMI:1.13704 @#
+660(space df:5843)-2824(applic df:3363) linkDF:228 PMI:0.647013 @-2924(satellit df:2100) linkDF:890 PMI:2.47978 @#
+2824(applic df:3363)-2924(satellit df:2100) linkDF:70 PMI:0.489469 @#
+559(commerci df:7732)-1473(launch df:7755) linkDF:584 PMI:0.47194 @-2924(satellit df:2100) linkDF:285 PMI:1.06093 @#
+1473(launch df:7755)-2924(satellit df:2100) linkDF:843 PMI:2.14244 @#
+432(law df:26528)-1173(1986 df:18025) linkDF:4376 PMI:0.409675 @-1964(immigr df:2752) linkDF:789 PMI:0.575982 @-2185(impact df:5372) linkDF:1094 PMI:0.23394 @#
+1173(1986 df:18025)-1964(immigr df:2752) linkDF:482 PMI:0.469601 @-2185(impact df:5372) linkDF:724 PMI:0.207576 @#
+1964(immigr df:2752)-2185(impact df:5372) linkDF:89 PMI:-0.00914705 @#
+33(gener df:37441)-335(drug df:14095) linkDF:4077 PMI:0.240275 @-4330(substitut df:1116) linkDF:347 PMI:0.312552 @#
+335(drug df:14095)-4330(substitut df:1116) linkDF:187 PMI:0.671282 @#
+1215(network df:5973)-1357(telephon df:13636) linkDF:942 PMI:0.643787 @-6666(capac df:2758) linkDF:129 PMI:0.253802 @-31860(cellular df:298) linkDF:47 PMI:1.4693 @#
+1357(telephon df:13636)-6666(capac df:2758) linkDF:226 PMI:-0.0109394 @-31860(cellular df:298) linkDF:210 PMI:2.1408 @#
+6666(capac df:2758)-31860(cellular df:298) linkDF:10 PMI:0.694486 @#
+149(intern df:25910)-1401(terrorist df:3689) linkDF:1086 PMI:0.626017 @#
+149(intern df:25910)-368(action df:18633) linkDF:3783 PMI:0.254454 @-1401(terrorist df:3689) linkDF:1086 PMI:0.626017 @#
+368(action df:18633)-1401(terrorist df:3689) linkDF:741 PMI:0.573456 @#
+149(intern df:25910)-546(econom df:20026) linkDF:5236 PMI:0.507397 @-2185(impact df:5372) linkDF:1022 PMI:0.189432 @-7090(terror df:3658) linkDF:1161 PMI:0.701236 @#
+546(econom df:20026)-2185(impact df:5372) linkDF:1288 PMI:0.678359 @-7090(terror df:3658) linkDF:475 PMI:0.0651116 @#
+2185(impact df:5372)-7090(terror df:3658) linkDF:102 PMI:-0.157399 @#
+367(death df:19459)-3503(cancer df:3739) linkDF:920 PMI:0.732991 @#
+335(drug df:14095)-2758(fight df:17336) linkDF:2616 PMI:0.566541 @-3503(cancer df:3739) linkDF:831 PMI:0.953736 @#
+2758(fight df:17336)-3503(cancer df:3739) linkDF:483 PMI:0.204158 @#
+953(control df:24687)-1262(research df:11701) linkDF:2519 PMI:0.361411 @-7589(carcinogen df:133) linkDF:27 PMI:0.302711 @#
+1262(research df:11701)-7589(carcinogen df:133) linkDF:37 PMI:1.36439 @#
+686(altern df:4353)-3503(cancer df:3739) linkDF:160 PMI:0.481235 @-4734(tradit df:5832) linkDF:252 PMI:0.490949 @-7787(therapi df:702) linkDF:41 PMI:0.792273 @#
+3503(cancer df:3739)-4734(tradit df:5832) linkDF:120 PMI:-0.0989417 @-7787(therapi df:702) linkDF:178 PMI:2.41253 @#
+4734(tradit df:5832)-7787(therapi df:702) linkDF:20 PMI:-0.218061 @#
+12(govern df:54769)-368(action df:18633) linkDF:9109 PMI:0.384704 @-957(anti df:13790) linkDF:7799 PMI:0.530428 @-5668(smoke df:3543) linkDF:863 PMI:-0.311939 @#
+368(action df:18633)-957(anti df:13790) linkDF:2727 PMI:0.557824 @-5668(smoke df:3543) linkDF:367 PMI:-0.0888014 @#
+957(anti df:13790)-5668(smoke df:3543) linkDF:435 PMI:0.382173 @#
+2183(medic df:9951)-2945(technolog df:5744) linkDF:443 PMI:0.243486 @-5096(modern df:4050) linkDF:231 PMI:-0.0582274 @-5852(ethic df:2540) linkDF:331 PMI:0.768026 @#
+2945(technolog df:5744)-5096(modern df:4050) linkDF:443 PMI:1.14244 @-5852(ethic df:2540) linkDF:130 PMI:0.382959 @#
+5096(modern df:4050)-5852(ethic df:2540) linkDF:87 PMI:0.330772 @#
+919(agreement df:15292)-953(control df:24687) linkDF:3363 PMI:0.382727 @-1307(arm df:16489) linkDF:2592 PMI:0.525907 @-1954(ussr df:512) linkDF:152 PMI:1.16173 @#
+953(control df:24687)-1307(arm df:16489) linkDF:4430 PMI:0.582929 @-1954(ussr df:512) linkDF:119 PMI:0.438022 @#
+1307(arm df:16489)-1954(ussr df:512) linkDF:122 PMI:0.866503 @#
+490(state df:72732)-1719(privat df:15636) linkDF:8629 PMI:0.222271 @-6128(asset df:4675) linkDF:2107 PMI:0.0197546 @#
+1719(privat df:15636)-6128(asset df:4675) linkDF:744 PMI:0.515981 @#
+583(soviet df:18814)-2964(spy df:1338) linkDF:633 PMI:1.42044 @#
+447(relat df:17199)-1693(jewish df:3304) linkDF:567 PMI:0.496119 @-1954(ussr df:512) linkDF:135 PMI:0.925599 @-1963(emigr df:1613) linkDF:390 PMI:0.838944 @#
+1693(jewish df:3304)-1954(ussr df:512) linkDF:25 PMI:0.888917 @-1963(emigr df:1613) linkDF:406 PMI:2.52887 @#
+1954(ussr df:512)-1963(emigr df:1613) linkDF:39 PMI:2.05064 @#
+699(dougla df:2231)-925(militari df:21767) linkDF:283 PMI:-0.0416533 @-1808(contract df:9882) linkDF:301 PMI:0.80969 @-1916(aircraft df:6015) linkDF:351 PMI:1.45982 @-2805(mcdonnel df:502) linkDF:468 PMI:4.23092 @#
+925(militari df:21767)-1808(contract df:9882) linkDF:969 PMI:-0.299101 @-1916(aircraft df:6015) linkDF:2214 PMI:1.02365 @-2805(mcdonnel df:502) linkDF:122 PMI:0.608526 @#
+1808(contract df:9882)-1916(aircraft df:6015) linkDF:562 PMI:0.442275 @-2805(mcdonnel df:502) linkDF:162 PMI:1.68178 @#
+1916(aircraft df:6015)-2805(mcdonnel df:502) linkDF:294 PMI:2.77422 @#
+1916(aircraft df:6015)-16035(stealth df:482) linkDF:209 PMI:2.47363 @#
+660(space df:5843)-16696(telescop df:240) linkDF:137 PMI:2.7776 @-41153(hubbl df:54) linkDF:35 PMI:2.90462 @#
+16696(telescop df:240)-41153(hubbl df:54) linkDF:36 PMI:6.12515 @#
+83(human df:11882)-2684(project df:10954) linkDF:1063 PMI:0.295866 @-58859(genom df:9) linkDF:7 PMI:2.37716 @#
+2684(project df:10954)-58859(genom df:9) linkDF:5 PMI:2.12201 @#
+1574(contribut df:7132)-3407(medicin df:2633) linkDF:185 PMI:0.483385 @-3455(gene df:1322) linkDF:81 PMI:0.346456 @-4877(map df:1219) linkDF:71 PMI:0.295802 @#
+3407(medicin df:2633)-3455(gene df:1322) linkDF:109 PMI:1.63982 @-4877(map df:1219) linkDF:20 PMI:0.0253223 @#
+3455(gene df:1322)-4877(map df:1219) linkDF:28 PMI:1.05077 @#
+3818(pacif df:4554)-15074(telesi df:96) linkDF:96 PMI:3.58749 @-15438(diversif df:117) linkDF:9 PMI:1.02254 @#
+2051(park df:8736)-2316(industri df:23155) linkDF:956 PMI:-0.25116 @-4642(theme df:2417) linkDF:468 PMI:1.29423 @-5523(expans df:2524) linkDF:132 PMI:-0.0147507 @#
+2316(industri df:23155)-4642(theme df:2417) linkDF:398 PMI:0.157459 @-5523(expans df:2524) linkDF:867 PMI:0.892728 @#
+4642(theme df:2417)-5523(expans df:2524) linkDF:68 PMI:0.60688 @#
+183(support df:31610)-2046(hostag df:3449) linkDF:839 PMI:0.236398 @-2239(lebanes df:1782) linkDF:452 PMI:0.278217 @-2317(taker df:285) linkDF:62 PMI:0.124672 @-7353(iranian df:3794) linkDF:961 PMI:0.276825 @#
+2046(hostag df:3449)-2239(lebanes df:1782) linkDF:710 PMI:2.94519 @-2317(taker df:285) linkDF:87 PMI:2.67883 @-7353(iranian df:3794) linkDF:1223 PMI:2.7333 @#
+2239(lebanes df:1782)-2317(taker df:285) linkDF:21 PMI:1.9178 @-7353(iranian df:3794) linkDF:635 PMI:2.73821 @#
+2317(taker df:285)-7353(iranian df:3794) linkDF:33 PMI:1.6141 @#
+60(foreign df:24399)-444(domest df:5799) linkDF:2190 PMI:0.935174 @-618(iran df:6347) linkDF:2410 PMI:0.940602 @-745(social df:8996) linkDF:2076 PMI:0.442621 @-4410(revolut df:3060) linkDF:998 PMI:0.788541 @-7064(consequ df:1683) linkDF:400 PMI:0.472089 @-8099(islam df:2985) linkDF:1170 PMI:0.972362 @#
+444(domest df:5799)-618(iran df:6347) linkDF:171 PMI:-0.268259 @-745(social df:8996) linkDF:531 PMI:0.516041 @-4410(revolut df:3060) linkDF:153 PMI:0.350082 @-7064(consequ df:1683) linkDF:98 PMI:0.502449 @-8099(islam df:2985) linkDF:64 PMI:-0.496657 @#
+618(iran df:6347)-745(social df:8996) linkDF:246 PMI:-0.343686 @-4410(revolut df:3060) linkDF:525 PMI:1.49275 @-7064(consequ df:1683) linkDF:112 PMI:0.545683 @-8099(islam df:2985) linkDF:1606 PMI:2.63566 @#
+745(social df:8996)-4410(revolut df:3060) linkDF:560 PMI:1.20849 @-7064(consequ df:1683) linkDF:213 PMI:0.839679 @-8099(islam df:2985) linkDF:184 PMI:0.120301 @#
+4410(revolut df:3060)-7064(consequ df:1683) linkDF:37 PMI:0.16767 @-8099(islam df:2985) linkDF:454 PMI:2.10183 @#
+7064(consequ df:1683)-8099(islam df:2985) linkDF:48 PMI:0.452768 @#
+115(polit df:26163)-2185(impact df:5372) linkDF:988 PMI:0.145881 @-2939(fundament df:2333) linkDF:759 PMI:0.716245 @-8099(islam df:2985) linkDF:878 PMI:0.615445 @#
+2185(impact df:5372)-2939(fundament df:2333) linkDF:137 PMI:0.58737 @-8099(islam df:2985) linkDF:56 PMI:-0.553704 @#
+2939(fundament df:2333)-8099(islam df:2985) linkDF:101 PMI:0.870111 @#
+611(trade df:23313)-1232(handl df:6888) linkDF:862 PMI:-0.123792 @-4251(japan df:7458) linkDF:3019 PMI:1.05013 @-6327(surplu df:1306) linkDF:691 PMI:1.3179 @#
+1232(handl df:6888)-4251(japan df:7458) linkDF:316 PMI:0.0124189 @-6327(surplu df:1306) linkDF:82 PMI:0.405714 @#
+4251(japan df:7458)-6327(surplu df:1306) linkDF:326 PMI:1.70639 @#
+12(govern df:54769)-149(intern df:25910) linkDF:12022 PMI:0.332485 @-447(relat df:17199) linkDF:7990 PMI:0.333715 @-655(regul df:7471) linkDF:3851 PMI:0.43768 @-2185(impact df:5372) linkDF:2068 PMI:0.145757 @-3508(farm df:6161) linkDF:2645 PMI:0.254808 @-4422(grain df:3304) linkDF:1324 PMI:0.185899 @#
+149(intern df:25910)-447(relat df:17199) linkDF:4170 PMI:0.431936 @-655(regul df:7471) linkDF:1267 PMI:0.0744941 @-2185(impact df:5372) linkDF:1022 PMI:0.189432 @-3508(farm df:6161) linkDF:948 PMI:-0.0227688 @-4422(grain df:3304) linkDF:505 PMI:-0.0294596 @#
+447(relat df:17199)-655(regul df:7471) linkDF:927 PMI:0.171818 @-2185(impact df:5372) linkDF:729 PMI:0.261367 @-3508(farm df:6161) linkDF:679 PMI:0.0532756 @-4422(grain df:3304) linkDF:300 PMI:-0.140458 @#
+655(regul df:7471)-2185(impact df:5372) linkDF:417 PMI:0.536602 @-3508(farm df:6161) linkDF:384 PMI:0.317119 @-4422(grain df:3304) linkDF:215 PMI:0.36022 @#
+2185(impact df:5372)-3508(farm df:6161) linkDF:432 PMI:0.764731 @-4422(grain df:3304) linkDF:231 PMI:0.761828 @#
+3508(farm df:6161)-4422(grain df:3304) linkDF:906 PMI:1.99141 @#
+1095(farmer df:4755)-2713(protect df:14920) linkDF:735 PMI:0.533716 @#
+116(nation df:66297)-700(manag df:19913) linkDF:8834 PMI:0.0965905 @-1040(unit df:43863) linkDF:23700 PMI:0.293759 @-1598(problem df:25826) linkDF:13416 PMI:0.254422 @#
+700(manag df:19913)-1040(unit df:43863) linkDF:5061 PMI:-0.0473798 @-1598(problem df:25826) linkDF:4602 PMI:0.387237 @#
+1040(unit df:43863)-1598(problem df:25826) linkDF:8417 PMI:0.201301 @#
+1023(lobbi df:2391)-1622(israel df:6277) linkDF:145 PMI:0.463875 @-2428(pro df:6766) linkDF:203 PMI:0.725329 @-2829(influenc df:5703) linkDF:246 PMI:1.08837 @#
+1622(israel df:6277)-2428(pro df:6766) linkDF:824 PMI:1.16111 @-2829(influenc df:5703) linkDF:344 PMI:0.458502 @#
+2428(pro df:6766)-2829(influenc df:5703) linkDF:538 PMI:0.830701 @#
+102(end df:38441)-103(war df:22517) linkDF:8518 PMI:0.482286 @-1503(civil df:11446) linkDF:3558 PMI:0.285934 @-1621(negoti df:13933) linkDF:5443 PMI:0.514446 @-2722(nicaraguan df:2544) linkDF:898 PMI:0.413053 @#
+103(war df:22517)-1503(civil df:11446) linkDF:4396 PMI:1.03228 @-1621(negoti df:13933) linkDF:3914 PMI:0.719529 @-2722(nicaraguan df:2544) linkDF:896 PMI:0.945677 @#
+1503(civil df:11446)-1621(negoti df:13933) linkDF:1395 PMI:0.364494 @-2722(nicaraguan df:2544) linkDF:392 PMI:0.795629 @#
+1621(negoti df:13933)-2722(nicaraguan df:2544) linkDF:559 PMI:0.953896 @#
+434(product df:19907)-624(economi df:11087) linkDF:3151 PMI:0.854375 @-5503(trend df:3507) linkDF:968 PMI:0.825144 @#
+624(economi df:11087)-5503(trend df:3507) linkDF:735 PMI:1.13508 @#
+900(africa df:4797)-3530(conflict df:5457) linkDF:423 PMI:0.978227 @-8934(horn df:952) linkDF:88 PMI:1.15428 @#
+3530(conflict df:5457)-8934(horn df:952) linkDF:40 PMI:0.236915 @#
+2316(industri df:23155)-2972(espionag df:584) linkDF:41 PMI:-0.69504 @#
+115(polit df:26163)-461(campaign df:16776) linkDF:7316 PMI:1.00927 @-3580(financ df:9170) linkDF:1945 PMI:0.288479 @#
+461(campaign df:16776)-3580(financ df:9170) linkDF:1514 PMI:0.482369 @#
+93(prison df:12509)-5279(overcrowd df:498) linkDF:210 PMI:1.71356 @-9502(cope df:1143) linkDF:58 PMI:-0.403917 @#
+5279(overcrowd df:498)-9502(cope df:1143) linkDF:6 PMI:0.551003 @#
+782(defens df:18878)-872(accus df:15177) linkDF:3491 PMI:0.69591 @-2684(project df:10954) linkDF:1429 PMI:0.128773 @-6038(contractor df:2313) linkDF:1229 PMI:1.53316 @-9806(cheat df:811) linkDF:182 PMI:0.671241 @#
+872(accus df:15177)-2684(project df:10954) linkDF:725 PMI:-0.331569 @-6038(contractor df:2313) linkDF:308 PMI:0.367518 @-9806(cheat df:811) linkDF:185 PMI:0.905807 @#
+2684(project df:10954)-6038(contractor df:2313) linkDF:479 PMI:1.1352 @-9806(cheat df:811) linkDF:58 PMI:0.0719703 @#
+6038(contractor df:2313)-9806(cheat df:811) linkDF:29 PMI:0.933982 @#
+537(long df:30074)-666(pai df:19036) linkDF:4460 PMI:0.248656 @-781(care df:10085) linkDF:2620 PMI:0.351964 @-1387(term df:19889) linkDF:7310 PMI:0.698916 @-2131(insur df:5605) linkDF:1263 PMI:0.20967 @-2644(coverag df:2189) linkDF:542 PMI:0.303905 @#
+666(pai df:19036)-781(care df:10085) linkDF:2156 PMI:0.614374 @-1387(term df:19889) linkDF:3228 PMI:0.338864 @-2131(insur df:5605) linkDF:1954 PMI:1.10339 @-2644(coverag df:2189) linkDF:562 PMI:0.79747 @#
+781(care df:10085)-1387(term df:19889) linkDF:1678 PMI:0.319887 @-2131(insur df:5605) linkDF:940 PMI:1.00692 @-2644(coverag df:2189) linkDF:444 PMI:1.19708 @#
+1387(term df:19889)-2131(insur df:5605) linkDF:1001 PMI:0.390674 @-2644(coverag df:2189) linkDF:327 PMI:0.212093 @#
+2131(insur df:5605)-2644(coverag df:2189) linkDF:553 PMI:2.004 @#
+449(oil df:9505)-8743(spill df:2019) linkDF:1250 PMI:2.37222 @#
+1790(wing df:4746)-2939(fundament df:2333) linkDF:67 PMI:-0.00401975 @-4038(christian df:5374) linkDF:447 PMI:1.05943 @#
+2939(fundament df:2333)-4038(christian df:5374) linkDF:129 PMI:0.52683 @#
+144(effort df:21407)-649(legisl df:11250) linkDF:2652 PMI:0.594728 @-953(control df:24687) linkDF:4818 PMI:0.405864 @-1344(gun df:6419) linkDF:856 PMI:0.0250348 @-6732(enact df:2370) linkDF:553 PMI:0.584495 @#
+649(legisl df:11250)-953(control df:24687) linkDF:2631 PMI:0.444219 @-1344(gun df:6419) linkDF:449 PMI:0.0231372 @-6732(enact df:2370) linkDF:1066 PMI:1.88416 @#
+953(control df:24687)-1344(gun df:6419) linkDF:1443 PMI:0.404685 @-6732(enact df:2370) linkDF:557 PMI:0.449143 @#
+1344(gun df:6419)-6732(enact df:2370) linkDF:103 PMI:0.108321 @#
+84(treatment df:5872)-2144(ms df:10233) linkDF:573 PMI:0.450817 @-3436(multipl df:1334) linkDF:125 PMI:0.965681 @-38459(sclerosi df:134) linkDF:19 PMI:1.3799 @#
+2144(ms df:10233)-3436(multipl df:1334) linkDF:155 PMI:0.62537 @-38459(sclerosi df:134) linkDF:41 PMI:1.59361 @#
+3436(multipl df:1334)-38459(sclerosi df:134) linkDF:105 PMI:4.57144 @#
+946(congress df:17534)-1263(member df:38477) linkDF:7410 PMI:0.592128 @-1387(term df:19889) linkDF:3506 PMI:0.503667 @-1559(limit df:12830) linkDF:2699 PMI:0.680453 @#
+1263(member df:38477)-1387(term df:19889) linkDF:5575 PMI:0.181565 @-1559(limit df:12830) linkDF:3825 PMI:0.243212 @#
+1387(term df:19889)-1559(limit df:12830) linkDF:2208 PMI:0.353634 @#
+651(develop df:21950)-1284(car df:14202) linkDF:1578 PMI:-0.182492 @-3078(electr df:6432) linkDF:1065 PMI:0.216422 @#
+1284(car df:14202)-3078(electr df:6432) linkDF:739 PMI:0.286374 @#
+83(human df:11882)-7012(cure df:1013) linkDF:191 PMI:0.960077 @-7700(ailment df:650) linkDF:98 PMI:0.736471 @-9482(vitamin df:197) linkDF:38 PMI:0.982858 @#
+7012(cure df:1013)-7700(ailment df:650) linkDF:31 PMI:2.0476 @-9482(vitamin df:197) linkDF:12 PMI:2.29229 @#
+7700(ailment df:650)-9482(vitamin df:197) linkDF:13 PMI:2.81603 @#
+3349(acid df:906)-3350(rain df:5790) linkDF:454 PMI:2.65643 @#
+1892(recal df:5083)-3623(automobil df:1803) linkDF:102 PMI:0.605364 @#
+16(vietnam df:3434)-359(agent df:6990) linkDF:257 PMI:0.566615 @-3444(veteran df:4067) linkDF:808 PMI:2.25368 @-14195(orang df:1985) linkDF:146 PMI:1.26001 @#
+359(agent df:6990)-3444(veteran df:4067) linkDF:350 PMI:0.706292 @-14195(orang df:1985) linkDF:210 PMI:0.912753 @#
+3444(veteran df:4067)-14195(orang df:1985) linkDF:153 PMI:1.13766 @#
+33(gener df:37441)-335(drug df:14095) linkDF:4077 PMI:0.240275 @-1009(activ df:17154) linkDF:5455 PMI:0.335035 @-1500(illeg df:7720) linkDF:2209 PMI:0.229459 @-2561(manufactur df:7753) linkDF:2439 PMI:0.324242 @#
+335(drug df:14095)-1009(activ df:17154) linkDF:1842 PMI:0.2263 @-1500(illeg df:7720) linkDF:1646 PMI:0.912214 @-2561(manufactur df:7753) linkDF:812 PMI:0.201345 @#
+1009(activ df:17154)-1500(illeg df:7720) linkDF:1318 PMI:0.49357 @-2561(manufactur df:7753) linkDF:892 PMI:0.0988997 @#
+1500(illeg df:7720)-2561(manufactur df:7753) linkDF:434 PMI:0.176895 @#
+679(advertis df:4348)-873(young df:11645) linkDF:472 PMI:0.428131 @-1260(compani df:31086) linkDF:1798 PMI:0.783701 @-9916(tobacco df:1378) linkDF:175 PMI:1.57018 @#
+873(young df:11645)-1260(compani df:31086) linkDF:1643 PMI:-0.291611 @-9916(tobacco df:1378) linkDF:94 PMI:-0.0364705 @#
+1260(compani df:31086)-9916(tobacco df:1378) linkDF:656 PMI:0.924515 @#
+1432(standard df:8323)-1956(cultur df:4332) linkDF:294 PMI:0.294272 @-1978(test df:11049) linkDF:1146 PMI:0.718415 @-8486(bia df:672) linkDF:92 PMI:0.996008 @#
+1956(cultur df:4332)-1978(test df:11049) linkDF:289 PMI:-0.00619778 @-8486(bia df:672) linkDF:40 PMI:0.816092 @#
+1978(test df:11049)-8486(bia df:672) linkDF:70 PMI:0.439397 @#
+502(pictur df:5951)-558(televis df:16124) linkDF:1637 PMI:1.0325 @-655(regul df:7471) linkDF:184 PMI:-0.383908 @-671(show df:32366) linkDF:2413 PMI:0.723703 @-1115(violenc df:7290) linkDF:338 PMI:0.248728 @-2276(explicit df:431) linkDF:39 PMI:0.917394 @-2544(video df:2262) linkDF:434 PMI:1.66898 @-4658(theater df:3034) linkDF:448 PMI:1.4071 @-5595(sex df:2847) linkDF:229 PMI:0.799642 @-5862(motion df:3382) linkDF:887 PMI:1.98156 @-5884(cassett df:453) linkDF:64 PMI:1.36293 @#
+558(televis df:16124)-655(regul df:7471) linkDF:599 PMI:-0.200331 @-671(show df:32366) linkDF:6834 PMI:0.767993 @-1115(violenc df:7290) linkDF:1113 PMI:0.443747 @-2276(explicit df:431) linkDF:73 PMI:0.547543 @-2544(video df:2262) linkDF:859 PMI:1.35496 @-4658(theater df:3034) linkDF:851 PMI:1.05197 @-5595(sex df:2847) linkDF:566 PMI:0.707764 @-5862(motion df:3382) linkDF:711 PMI:0.763641 @-5884(cassett df:453) linkDF:107 PMI:0.880128 @#
+655(regul df:7471)-671(show df:32366) linkDF:1471 PMI:0.00130516 @-1115(violenc df:7290) linkDF:304 PMI:-0.0847599 @-2276(explicit df:431) linkDF:61 PMI:1.13724 @-2544(video df:2262) linkDF:73 PMI:-0.341074 @-4658(theater df:3034) linkDF:63 PMI:-0.782031 @-5595(sex df:2847) linkDF:141 PMI:0.08721 @-5862(motion df:3382) linkDF:139 PMI:-0.0992774 @-5884(cassett df:453) linkDF:17 PMI:-0.190208 @#
+671(show df:32366)-1115(violenc df:7290) linkDF:1469 PMI:0.0244699 @-2276(explicit df:431) linkDF:125 PMI:0.388597 @-2544(video df:2262) linkDF:1005 PMI:0.81513 @-4658(theater df:3034) linkDF:1476 PMI:0.905845 @-5595(sex df:2847) linkDF:1030 PMI:0.609685 @-5862(motion df:3382) linkDF:913 PMI:0.316905 @-5884(cassett df:453) linkDF:138 PMI:0.437753 @#
+1115(violenc df:7290)-2276(explicit df:431) linkDF:40 PMI:0.739768 @-2544(video df:2262) linkDF:105 PMI:0.0469522 @-4658(theater df:3034) linkDF:169 PMI:0.229258 @-5595(sex df:2847) linkDF:186 PMI:0.388722 @-5862(motion df:3382) linkDF:121 PMI:-0.213435 @-5884(cassett df:453) linkDF:17 PMI:-0.165682 @#
+2276(explicit df:431)-2544(video df:2262) linkDF:23 PMI:1.35664 @-4658(theater df:3034) linkDF:13 PMI:0.492459 @-5595(sex df:2847) linkDF:102 PMI:2.6161 @-5862(motion df:3382) linkDF:17 PMI:0.652138 @-5884(cassett df:453) linkDF:1 PMI:-0.170745 @#
+2544(video df:2262)-4658(theater df:3034) linkDF:194 PMI:1.53747 @-5595(sex df:2847) linkDF:126 PMI:1.16951 @-5862(motion df:3382) linkDF:198 PMI:1.4493 @-5884(cassett df:453) linkDF:134 PMI:3.0692 @#
+4658(theater df:3034)-5595(sex df:2847) linkDF:216 PMI:1.41488 @-5862(motion df:3382) linkDF:182 PMI:1.0714 @-5884(cassett df:453) linkDF:33 PMI:1.37423 @#
+5595(sex df:2847)-5862(motion df:3382) linkDF:126 PMI:0.767294 @-5884(cassett df:453) linkDF:12 PMI:0.426249 @#
+5862(motion df:3382)-5884(cassett df:453) linkDF:18 PMI:0.659512 @#
+3580(financ df:9170)-8343(amtrak df:310) linkDF:14 PMI:-0.209952 @#
+435(cost df:17310)-2463(remov df:9049) linkDF:1119 PMI:0.161997 @-8084(garbag df:1008) linkDF:146 PMI:0.320099 @-20099(trash df:847) linkDF:129 PMI:0.370327 @#
+2463(remov df:9049)-8084(garbag df:1008) linkDF:89 PMI:0.473759 @-20099(trash df:847) linkDF:63 PMI:0.30228 @#
+8084(garbag df:1008)-20099(trash df:847) linkDF:183 PMI:3.56332 @#
+2526(devic df:2910)-3089(implant df:321) linkDF:78 PMI:2.62061 @-7064(consequ df:1683) linkDF:33 PMI:0.103521 @-11184(breast df:503) linkDF:20 PMI:0.810489 @-16403(silicon df:239) linkDF:41 PMI:2.27246 @-40421(gel df:45) linkDF:6 PMI:2.02044 @#
+3089(implant df:321)-7064(consequ df:1683) linkDF:5 PMI:0.420919 @-11184(breast df:503) linkDF:15 PMI:2.72727 @-16403(silicon df:239) linkDF:7 PMI:2.70926 @-40421(gel df:45) linkDF:6 PMI:4.22491 @#
+7064(consequ df:1683)-11184(breast df:503) linkDF:5 PMI:-0.0282301 @-16403(silicon df:239) linkDF:2 PMI:-0.200394 @-40421(gel df:45) linkDF:1 PMI:0.77626 @#
+11184(breast df:503)-16403(silicon df:239) linkDF:8 PMI:2.39364 @-40421(gel df:45) linkDF:5 PMI:3.59344 @#
+16403(silicon df:239)-40421(gel df:45) linkDF:4 PMI:4.11442 @#
+470(retir df:7506)-668(strategi df:4360) linkDF:222 PMI:0.110247 @-920(mutual df:2208) linkDF:116 PMI:0.141545 @-1026(individu df:7432) linkDF:621 PMI:0.605578 @-1590(fund df:14291) linkDF:1057 PMI:0.483602 @#
+668(strategi df:4360)-920(mutual df:2208) linkDF:121 PMI:0.726976 @-1026(individu df:7432) linkDF:342 PMI:0.552288 @-1590(fund df:14291) linkDF:718 PMI:0.640112 @#
+920(mutual df:2208)-1026(individu df:7432) linkDF:177 PMI:0.574012 @-1590(fund df:14291) linkDF:693 PMI:1.28506 @#
+1026(individu df:7432)-1590(fund df:14291) linkDF:1194 PMI:0.615384 @#
+270(effect df:17536)-434(product df:19907) linkDF:3264 PMI:0.431126 @-447(relat df:17199) linkDF:2394 PMI:0.267359 @-1725(program df:23497) linkDF:3817 PMI:0.421836 @-2183(medic df:9951) linkDF:1551 PMI:0.380471 @-4951(util df:2661) linkDF:442 PMI:0.444097 @-5668(smoke df:3543) linkDF:536 PMI:0.350649 @-20248(cessat df:155) linkDF:41 PMI:0.909391 @#
+434(product df:19907)-447(relat df:17199) linkDF:2518 PMI:0.191042 @-1725(program df:23497) linkDF:4455 PMI:0.449583 @-2183(medic df:9951) linkDF:1098 PMI:-0.0917541 @-4951(util df:2661) linkDF:566 PMI:0.564565 @-5668(smoke df:3543) linkDF:484 PMI:0.121784 @-20248(cessat df:155) linkDF:31 PMI:0.502991 @#
+447(relat df:17199)-1725(program df:23497) linkDF:3141 PMI:0.246317 @-2183(medic df:9951) linkDF:1149 PMI:0.0998678 @-4951(util df:2661) linkDF:296 PMI:0.062551 @-5668(smoke df:3543) linkDF:350 PMI:-0.0561471 @-20248(cessat df:155) linkDF:28 PMI:0.547428 @#
+1725(program df:23497)-2183(medic df:9951) linkDF:1917 PMI:0.299716 @-4951(util df:2661) linkDF:500 PMI:0.274778 @-5668(smoke df:3543) linkDF:538 PMI:0.0617568 @-20248(cessat df:155) linkDF:27 PMI:0.199039 @#
+2183(medic df:9951)-4951(util df:2661) linkDF:153 PMI:-0.0501923 @-5668(smoke df:3543) linkDF:463 PMI:0.770825 @-20248(cessat df:155) linkDF:11 PMI:0.160297 @#
+4951(util df:2661)-5668(smoke df:3543) linkDF:67 PMI:0.156762 @-20248(cessat df:155) linkDF:1 PMI:-0.918627 @#
+5668(smoke df:3543)-20248(cessat df:155) linkDF:16 PMI:1.56769 @#
+1695(ban df:8963)-5668(smoke df:3543) linkDF:397 PMI:0.721602 @#
+2106(wast df:2959)-3361(cleanup df:1400) linkDF:396 PMI:2.75584 @-10306(hazard df:2002) linkDF:514 PMI:2.65897 @#
+3361(cleanup df:1400)-10306(hazard df:2002) linkDF:231 PMI:2.60754 @#
+645(prevent df:9800)-649(legisl df:11250) linkDF:1230 PMI:0.607764 @-953(control df:24687) linkDF:2480 PMI:0.523099 @-1344(gun df:6419) linkDF:455 PMI:0.174397 @-17167(nra df:122) linkDF:18 PMI:0.907468 @#
+649(legisl df:11250)-953(control df:24687) linkDF:2631 PMI:0.444219 @-1344(gun df:6419) linkDF:449 PMI:0.0231372 @-17167(nra df:122) linkDF:65 PMI:2.0535 @#
+953(control df:24687)-1344(gun df:6419) linkDF:1443 PMI:0.404685 @-17167(nra df:122) linkDF:92 PMI:1.61499 @#
+1344(gun df:6419)-17167(nra df:122) linkDF:110 PMI:3.1407 @#
+507(life df:19499)-842(investig df:19587) linkDF:2289 PMI:-0.0136142 @-1488(real df:11921) linkDF:2602 PMI:0.611116 @-1719(privat df:15636) linkDF:2449 PMI:0.279241 @#
+842(investig df:19587)-1488(real df:11921) linkDF:1323 PMI:-0.0697657 @-1719(privat df:15636) linkDF:2319 PMI:0.220194 @#
+1488(real df:11921)-1719(privat df:15636) linkDF:1700 PMI:0.406251 @#
+3(offici df:60966)-530(english df:4191) linkDF:1665 PMI:0.0700695 @-531(languag df:4700) linkDF:2222 PMI:0.244029 @#
+530(english df:4191)-531(languag df:4700) linkDF:1246 PMI:2.34294 @#
+2638(dog df:2978)-11372(maul df:85) linkDF:23 PMI:2.70509 @#
+60(foreign df:24399)-375(restaur df:3304) linkDF:383 PMI:-0.245896 @-898(land df:13061) linkDF:2357 PMI:0.196717 @#
+375(restaur df:3304)-898(land df:13061) linkDF:336 PMI:0.248091 @#
+2828(embargo df:843)-3397(sanction df:2638) linkDF:146 PMI:2.38012 @-17357(ineffect df:399) linkDF:7 PMI:1.23124 @#
+3397(sanction df:2638)-17357(ineffect df:399) linkDF:18 PMI:1.03489 @#
+137(famili df:21496)-747(elderli df:2254) linkDF:593 PMI:0.700366 @-1263(member df:38477) linkDF:7153 PMI:0.353104 @-1511(personnel df:4682) linkDF:685 PMI:0.113571 @-1821(initi df:10841) linkDF:1454 PMI:0.0266163 @-2183(medic df:9951) linkDF:2238 PMI:0.543543 @-2953(minim df:1360) linkDF:184 PMI:0.035329 @-3262(abus df:5356) linkDF:1110 PMI:0.461776 @-11441(mistreat df:339) linkDF:80 PMI:0.59166 @#
+747(elderli df:2254)-1263(member df:38477) linkDF:660 PMI:0.225218 @-1511(personnel df:4682) linkDF:49 PMI:-0.268867 @-1821(initi df:10841) linkDF:200 PMI:0.29802 @-2183(medic df:9951) linkDF:436 PMI:1.16301 @-2953(minim df:1360) linkDF:28 PMI:0.407758 @-3262(abus df:5356) linkDF:132 PMI:0.587623 @-11441(mistreat df:339) linkDF:13 PMI:1.02974 @-143033(nonmed df:2) linkDF:1 PMI:3.59765 @#
+1263(member df:38477)-1511(personnel df:4682) linkDF:1667 PMI:0.42074 @-1821(initi df:10841) linkDF:3297 PMI:0.263117 @-2183(medic df:9951) linkDF:2506 PMI:0.0744542 @-2953(minim df:1360) linkDF:335 PMI:0.05233 @-3262(abus df:5356) linkDF:1747 PMI:0.333122 @-11441(mistreat df:339) linkDF:128 PMI:0.47947 @-143033(nonmed df:2) linkDF:1 PMI:0.760292 @#
+1511(personnel df:4682)-1821(initi df:10841) linkDF:447 PMI:0.371243 @-2183(medic df:9951) linkDF:483 PMI:0.534363 @-2953(minim df:1360) linkDF:67 PMI:0.549227 @-3262(abus df:5356) linkDF:213 PMI:0.335094 @-11441(mistreat df:339) linkDF:21 PMI:0.778297 @#
+1821(initi df:10841)-2183(medic df:9951) linkDF:769 PMI:0.159827 @-2953(minim df:1360) linkDF:132 PMI:0.387727 @-3262(abus df:5356) linkDF:475 PMI:0.297507 @-11441(mistreat df:339) linkDF:28 PMI:0.226369 @#
+2183(medic df:9951)-2953(minim df:1360) linkDF:133 PMI:0.480936 @-3262(abus df:5356) linkDF:747 PMI:0.835919 @-11441(mistreat df:339) linkDF:48 PMI:0.851028 @-143033(nonmed df:2) linkDF:1 PMI:2.11268 @#
+2953(minim df:1360)-3262(abus df:5356) linkDF:67 PMI:0.414735 @-11441(mistreat df:339) linkDF:3 PMI:0.0686275 @#
+3262(abus df:5356)-11441(mistreat df:339) linkDF:70 PMI:1.84778 @#
+559(commerci df:7732)-612(deficit df:5224) linkDF:385 PMI:0.450357 @-1551(creat df:12857) linkDF:867 PMI:0.361528 @-2407(food df:10885) linkDF:714 PMI:0.333874 @-2879(fish df:3752) linkDF:346 PMI:0.674527 @-41589(overfish df:15) linkDF:3 PMI:1.44869 @#
+612(deficit df:5224)-1551(creat df:12857) linkDF:649 PMI:0.464026 @-2407(food df:10885) linkDF:444 PMI:0.25092 @-2879(fish df:3752) linkDF:66 PMI:-0.590153 @#
+1551(creat df:12857)-2407(food df:10885) linkDF:1140 PMI:0.293254 @-2879(fish df:3752) linkDF:373 PMI:0.241146 @-41589(overfish df:15) linkDF:1 PMI:-0.158439 @#
+2407(food df:10885)-2879(fish df:3752) linkDF:636 PMI:0.941269 @-41589(overfish df:15) linkDF:4 PMI:1.39436 @#
+2879(fish df:3752)-41589(overfish df:15) linkDF:14 PMI:3.71222 @#
+333(lawsuit df:4974)-447(relat df:17199) linkDF:604 PMI:0.150243 @-27305(asbesto df:203) linkDF:59 PMI:2.26361 @#
+447(relat df:17199)-27305(asbesto df:203) linkDF:52 PMI:0.896687 @#
+932(plan df:39140)-1590(fund df:14291) linkDF:5141 PMI:0.413973 @-3105(corpor df:7024) linkDF:2299 PMI:0.319496 @-10345(pension df:1444) linkDF:652 PMI:0.641227 @#
+1590(fund df:14291)-3105(corpor df:7024) linkDF:1371 PMI:0.810078 @-10345(pension df:1444) linkDF:605 PMI:1.57393 @#
+3105(corpor df:7024)-10345(pension df:1444) linkDF:195 PMI:1.15199 @#
+960(system df:20218)-2195(welfar df:1802) linkDF:394 PMI:0.576625 @-4177(reform df:9212) linkDF:2590 PMI:0.828078 @#
+2195(welfar df:1802)-4177(reform df:9212) linkDF:281 PMI:1.0247 @#
+80(school df:17292)-107(learn df:8004) linkDF:2133 PMI:0.930844 @-140(citi df:34432) linkDF:5526 PMI:0.423734 @-337(student df:11592) linkDF:6057 PMI:1.60416 @-439(level df:16556) linkDF:1829 PMI:0.0502769 @-2197(differ df:7909) linkDF:1109 PMI:0.288713 @-8156(suburban df:2679) linkDF:492 PMI:0.558536 @#
+107(learn df:8004)-140(citi df:34432) linkDF:2031 PMI:0.193101 @-337(student df:11592) linkDF:1371 PMI:0.888784 @-439(level df:16556) linkDF:904 PMI:0.115884 @-2197(differ df:7909) linkDF:642 PMI:0.51239 @-8156(suburban df:2679) linkDF:206 PMI:0.458236 @#
+140(citi df:34432)-337(student df:11592) linkDF:4005 PMI:0.501742 @-439(level df:16556) linkDF:2832 PMI:-0.201252 @-2197(differ df:7909) linkDF:1613 PMI:-0.0253919 @-8156(suburban df:2679) linkDF:899 PMI:0.472598 @#
+337(student df:11592)-439(level df:16556) linkDF:1151 PMI:-0.0129326 @-2197(differ df:7909) linkDF:710 PMI:0.242693 @-8156(suburban df:2679) linkDF:273 PMI:0.369458 @#
+439(level df:16556)-2197(differ df:7909) linkDF:1286 PMI:0.480287 @-8156(suburban df:2679) linkDF:206 PMI:-0.268571 @#
+2197(differ df:7909)-8156(suburban df:2679) linkDF:117 PMI:-0.0955262 @#
+894(independ df:12737)-1603(sign df:19468) linkDF:2172 PMI:0.365865 @-3399(publish df:11349) linkDF:1307 PMI:0.397594 @-5584(demis df:335) linkDF:31 PMI:0.178846 @#
+1603(sign df:19468)-3399(publish df:11349) linkDF:1503 PMI:0.113061 @-5584(demis df:335) linkDF:55 PMI:0.327931 @#
+3399(publish df:11349)-5584(demis df:335) linkDF:47 PMI:0.710387 @#
+9833(eros df:555)-14486(beachfront df:154) linkDF:13 PMI:3.22028 @#
+1404(murder df:8045)-1488(real df:11921) linkDF:596 PMI:0.0226331 @-4613(motiv df:3097) linkDF:502 PMI:1.19886 @#
+1488(real df:11921)-4613(motiv df:3097) linkDF:304 PMI:0.304037 @#
+1201(fraud df:4010)-1532(involv df:21846) linkDF:1199 PMI:0.812179 @-2931(comput df:5929) linkDF:266 PMI:0.610594 @-2955(instanc df:2408) linkDF:95 PMI:0.482034 @#
+1532(involv df:21846)-2931(comput df:5929) linkDF:994 PMI:0.233609 @-2955(instanc df:2408) linkDF:582 PMI:0.599401 @#
+2931(comput df:5929)-2955(instanc df:2408) linkDF:130 PMI:0.404627 @#
+80(school df:17292)-144(effort df:21407) linkDF:2568 PMI:0.132666 @-151(improv df:11547) linkDF:1557 PMI:0.249591 @#
+144(effort df:21407)-151(improv df:11547) linkDF:2629 PMI:0.55996 @#
+449(oil df:9505)-3361(cleanup df:1400) linkDF:581 PMI:1.97221 @-8743(spill df:2019) linkDF:1250 PMI:2.37222 @#
+3361(cleanup df:1400)-8743(spill df:2019) linkDF:519 PMI:3.40857 @#
+1850(danger df:7544)-4004(toi df:1143) linkDF:92 PMI:0.563124 @#
+227(amount df:10620)-414(monei df:21327) linkDF:3169 PMI:0.834203 @-2420(earn df:8743) linkDF:1021 PMI:0.59329 @-3582(writer df:3820) linkDF:209 PMI:-0.16491 @#
+414(monei df:21327)-2420(earn df:8743) linkDF:2161 PMI:0.645844 @-3582(writer df:3820) linkDF:611 PMI:0.210617 @#
+2420(earn df:8743)-3582(writer df:3820) linkDF:271 PMI:0.28936 @#
+508(market df:25621)-587(stock df:16040) linkDF:10143 PMI:1.40179 @-602(attribut df:3408) linkDF:1224 PMI:0.836086 @-611(trade df:23313) linkDF:12829 PMI:1.26278 @-1821(initi df:10841) linkDF:1788 PMI:0.0578502 @-2931(comput df:5929) linkDF:1967 PMI:0.756742 @-12325(perturb df:37) linkDF:1 PMI:-1.75083 @#
+587(stock df:16040)-602(attribut df:3408) linkDF:775 PMI:0.847397 @-611(trade df:23313) linkDF:8974 PMI:1.37373 @-1821(initi df:10841) linkDF:1032 PMI:-0.0234221 @-2931(comput df:5929) linkDF:1289 PMI:0.802426 @-12325(perturb df:37) linkDF:1 PMI:-1.2825 @#
+602(attribut df:3408)-611(trade df:23313) linkDF:1049 PMI:0.776201 @-1821(initi df:10841) linkDF:253 PMI:0.119673 @-2931(comput df:5929) linkDF:197 PMI:0.472967 @#
+611(trade df:23313)-1821(initi df:10841) linkDF:1741 PMI:0.125613 @-2931(comput df:5929) linkDF:1511 PMI:0.587405 @-12325(perturb df:37) linkDF:3 PMI:-0.557817 @#
+1821(initi df:10841)-2931(comput df:5929) linkDF:504 PMI:0.25513 @-12325(perturb df:37) linkDF:3 PMI:0.207859 @#
+5(educ df:10126)-80(school df:17292) linkDF:4232 PMI:1.38082 @-270(effect df:17536) linkDF:1472 PMI:0.31076 @-960(system df:20218) linkDF:2250 PMI:0.592751 @-1725(program df:23497) linkDF:3610 PMI:0.915229 @-1843(choic df:5608) linkDF:828 PMI:0.875457 @-3437(entir df:4943) linkDF:433 PMI:0.353404 @-14934(voucher df:150) linkDF:58 PMI:1.8382 @#
+80(school df:17292)-270(effect df:17536) linkDF:2081 PMI:0.121849 @-960(system df:20218) linkDF:2923 PMI:0.319293 @-1725(program df:23497) linkDF:3983 PMI:0.478419 @-1843(choic df:5608) linkDF:972 PMI:0.500662 @-3437(entir df:4943) linkDF:692 PMI:0.287114 @-14934(voucher df:150) linkDF:56 PMI:1.26797 @#
+270(effect df:17536)-960(system df:20218) linkDF:3321 PMI:0.432937 @-1725(program df:23497) linkDF:3817 PMI:0.421836 @-1843(choic df:5608) linkDF:882 PMI:0.389487 @-3437(entir df:4943) linkDF:748 PMI:0.350919 @-14934(voucher df:150) linkDF:9 PMI:-0.574167 @#
+960(system df:20218)-1725(program df:23497) linkDF:5291 PMI:0.606061 @-1843(choic df:5608) linkDF:970 PMI:0.342273 @-3437(entir df:4943) linkDF:1015 PMI:0.513843 @-14934(voucher df:150) linkDF:37 PMI:0.697209 @#
+1725(program df:23497)-1843(choic df:5608) linkDF:1278 PMI:0.46773 @-3437(entir df:4943) linkDF:1061 PMI:0.407867 @-14934(voucher df:150) linkDF:79 PMI:1.30544 @#
+1843(choic df:5608)-3437(entir df:4943) linkDF:247 PMI:0.382967 @-14934(voucher df:150) linkDF:23 PMI:1.50416 @#
+3437(entir df:4943)-14934(voucher df:150) linkDF:7 PMI:0.440802 @#
+494(stop df:17101)-929(grant df:8069) linkDF:949 PMI:0.123987 @-960(system df:20218) linkDF:2363 PMI:0.117722 @-1003(juri df:6454) linkDF:648 PMI:-0.0342016 @-2748(monetari df:1792) linkDF:168 PMI:-0.10276 @-3753(unreason df:460) linkDF:74 PMI:0.437202 @-4177(reform df:9212) linkDF:1203 PMI:0.228675 @-5017(award df:6223) linkDF:625 PMI:-0.0338926 @-42386(jurisprud df:39) linkDF:5 PMI:0.210239 @#
+929(grant df:8069)-960(system df:20218) linkDF:1272 PMI:0.249488 @-1003(juri df:6454) linkDF:562 PMI:0.574517 @-2748(monetari df:1792) linkDF:122 PMI:0.328404 @-3753(unreason df:460) linkDF:50 PMI:0.796267 @-4177(reform df:9212) linkDF:772 PMI:0.536193 @-5017(award df:6223) linkDF:583 PMI:0.64765 @-42386(jurisprud df:39) linkDF:3 PMI:0.450521 @#
+960(system df:20218)-1003(juri df:6454) linkDF:875 PMI:0.0986953 @-2748(monetari df:1792) linkDF:457 PMI:0.730523 @-3753(unreason df:460) linkDF:81 PMI:0.360149 @-4177(reform df:9212) linkDF:2590 PMI:0.828078 @-5017(award df:6223) linkDF:919 PMI:0.184206 @-42386(jurisprud df:39) linkDF:10 PMI:0.73595 @#
+1003(juri df:6454)-2748(monetari df:1792) linkDF:44 PMI:-0.468098 @-3753(unreason df:460) linkDF:29 PMI:0.474869 @-4177(reform df:9212) linkDF:138 PMI:-0.962209 @-5017(award df:6223) linkDF:738 PMI:1.10674 @-42386(jurisprud df:39) linkDF:5 PMI:1.18468 @#
+2748(monetari df:1792)-3753(unreason df:460) linkDF:5 PMI:-0.00162083 @-4177(reform df:9212) linkDF:269 PMI:0.986617 @-5017(award df:6223) linkDF:64 PMI:-0.0569566 @-42386(jurisprud df:39) linkDF:1 PMI:0.856606 @#
+3753(unreason df:460)-4177(reform df:9212) linkDF:35 PMI:0.307115 @-5017(award df:6223) linkDF:28 PMI:0.476226 @#
+4177(reform df:9212)-5017(award df:6223) linkDF:255 PMI:-0.311751 @-42386(jurisprud df:39) linkDF:2 PMI:-0.0874214 @#
+5017(award df:6223)-42386(jurisprud df:39) linkDF:4 PMI:0.997981 @#
+2701(benefit df:8121)-3455(gene df:1322) linkDF:81 PMI:0.216595 @-7787(therapi df:702) linkDF:92 PMI:0.976902 @-76783(humankind df:43) linkDF:3 PMI:0.346459 @#
+3455(gene df:1322)-7787(therapi df:702) linkDF:50 PMI:2.18244 @#
+915(assist df:14793)-1223(legal df:11478) linkDF:1577 PMI:0.424438 @-1362(suicid df:1762) linkDF:208 PMI:0.272679 @-2183(medic df:9951) linkDF:1462 PMI:0.491478 @#
+1223(legal df:11478)-1362(suicid df:1762) linkDF:133 PMI:0.0792122 @-2183(medic df:9951) linkDF:947 PMI:0.310939 @#
+1362(suicid df:1762)-2183(medic df:9951) linkDF:252 PMI:0.861051 @#
+60(foreign df:24399)-533(import df:17292) linkDF:4721 PMI:0.610735 @-2185(impact df:5372) linkDF:859 PMI:0.0757713 @-2316(industri df:23155) linkDF:4374 PMI:0.242425 @-6693(textil df:686) linkDF:198 PMI:0.666347 @#
+533(import df:17292)-2185(impact df:5372) linkDF:1015 PMI:0.586944 @-2316(industri df:23155) linkDF:3975 PMI:0.49107 @-6693(textil df:686) linkDF:229 PMI:1.1561 @#
+2185(impact df:5372)-2316(industri df:23155) linkDF:1473 PMI:0.66739 @-6693(textil df:686) linkDF:37 PMI:0.50234 @#
+2316(industri df:23155)-6693(textil df:686) linkDF:341 PMI:1.26229 @#
+total execution time(minute:second.microsecond)0:14.765625

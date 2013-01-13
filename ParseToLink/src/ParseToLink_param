@@ -1,0 +1,7 @@
+<parameters>
+<index>C:\buildindex\invFPindex\APindex.key</index>
+<textQuerySet>queryAP51-100</textQuerySet>
+<outLinkFile>AP51-100Query</outLinkFile>
+<showLink>false</showLink>
+<hasDocFormat>true</hasDocFormat>
+</parameters>
